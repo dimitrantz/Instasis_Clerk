@@ -1,6 +1,5 @@
 # Instasis_Clerk
-Software Engineering Project : Instasis Clerk - Student life made simpler
-Date: Mar 2017 – Jun 2017
+Software Engineering Project : Instasis Clerk - Student life made simpler(Mar 2017 – Jun 2017)
 
 Project description:
 
