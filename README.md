@@ -15,6 +15,9 @@ SRS, SSD and SWOT analysis.
 Contributors:
 
 Diamanti Maria -  mfdiamanti@ece.auth.gr
+
 Bekos Christopher -  mpekchri@ece.auth.gr
+
 Ntzioni Dimitra - dntzioni@ece.auth.gr
+
 Paschos Nikos - npaschos@ece.auth.gr
