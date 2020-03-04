@@ -16,7 +16,7 @@ Contributors:
 
 Diamanti Maria -  mfdiamanti@ece.auth.gr
 
-Bekos Christopher -  mpekchri@ece.auth.gr
+Mpekos Christopher -  mpekchri@ece.auth.gr
 
 Ntzioni Dimitra - dntzioni@ece.auth.gr
 
