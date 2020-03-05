@@ -1,7 +1,7 @@
 # Instasis_Clerk
-Software Engineering Project : Instasis Clerk - Student life made simpler(Mar 2017 – Jun 2017)
+Software Engineering Project : Instasis Clerk - Student life made simpler(8th semester | Mar 2017 – Jun 2017)
 
-Project description:
+## Project description:
 
 In the context of the course “Software Engineering”, 
 I was involved with a four-member team to develop a part of Instasis, 
@@ -12,7 +12,7 @@ The main purpose of this project is to develop the system of the IT members,
 according to the needs of our client, which resulted in the writing of URS, 
 SRS, SSD and SWOT analysis.
 
-Contributors:
+## Contributors:
 
 Diamanti Maria -  mfdiamanti@ece.auth.gr
 
